@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1015.8259000000002,
+    "videos": [
         "Manu Chao – Bongo Bong (Official Music Video)-cfLIlP-GAmg.mp4",
         "Marco Antonio Solís - Sin Lado Izquierdo-NTIDmep8lpM.mp4",
         "Moonspell - Trebaruna-ZttiXu6Yj6g.mp4",
@@ -82,7 +83,5 @@
         "Mijares Bonita--y28FKqHJ5I.mp4",
         "Mi Sacrificio-N4b_tAz1t5I.mp4",
         "麦吉_Maggie x 盖盖Nyan - Summertime (Arrange ver.)-nIoQMVTxyd4.mp4"
-    ],
-    "id": "m1",
-    "total_size": 968.7669345703126
+    ]
 }
