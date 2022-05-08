@@ -302,6 +302,11 @@
             "size": 19.813611520000002
         },
         {
+            "name": "Arcade Fire - Song on the Beach Photograph-g_72RkQV25Y.mp4",
+            "path": "music_m1/videos/Arcade Fire - Song on the Beach Photograph-g_72RkQV25Y.mp4",
+            "size": 9.904729088
+        },
+        {
             "name": "Mac-DeMarco--Treat-Her-Better-wCA7Rq0EBU4.mp4",
             "path": "music_m1/videos/Mac-DeMarco--Treat-Her-Better-wCA7Rq0EBU4.mp4",
             "size": 9.518466048
@@ -392,5 +397,5 @@
             "size": 8.424365056000001
         }
     ],
-    "total_size": 924.422849536
+    "total_size": 934.3275786239999
 }
