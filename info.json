@@ -1,5 +1,5 @@
 {
-    "available_space": true,
+    "available_space": false,
     "files": [
         {
             "name": "Manu Chao – Bongo Bong (Official Music Video)-cfLIlP-GAmg.mp4",
@@ -342,6 +342,11 @@
             "size": 7.462553600000001
         },
         {
+            "name": "Molchat Doma - Kletka (Official Lyrics Video) Молчат Дома - Клетка-c69eHlQrKaY.mp4",
+            "path": "music_m1/videos/Molchat Doma - Kletka (Official Lyrics Video) Молчат Дома - Клетка-c69eHlQrKaY.mp4",
+            "size": 11.238775808000002
+        },
+        {
             "name": "Moon Dawg - The Beach Boys-gTVpdKLZ0aQ.mp4",
             "path": "music_m1/videos/Moon Dawg - The Beach Boys-gTVpdKLZ0aQ.mp4",
             "size": 4.2975283200000005
@@ -407,5 +412,5 @@
             "size": 8.424365056000001
         }
     ],
-    "total_size": 942.3817594879997
+    "total_size": 953.6205352959997
 }
