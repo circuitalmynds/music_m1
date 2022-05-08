@@ -142,6 +142,11 @@
             "size": 9.881888768000001
         },
         {
+            "name": "Les Vitrines-v7gjGCD5DQY.mp4",
+            "path": "music_m1/videos/Les Vitrines-v7gjGCD5DQY.mp4",
+            "size": 5.187080192000001
+        },
+        {
             "name": "MASACRE 68 Sistema Podrido - El Imperial-T32oSbKgvck.mp4",
             "path": "music_m1/videos/MASACRE 68 Sistema Podrido - El Imperial-T32oSbKgvck.mp4",
             "size": 32.240873472000004
@@ -402,5 +407,5 @@
             "size": 8.424365056000001
         }
     ],
-    "total_size": 937.1946792959999
+    "total_size": 942.3817594879997
 }
