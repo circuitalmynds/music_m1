@@ -1,5 +1,5 @@
 {
-    "available_space": false,
+    "available_space": true,
     "content": [
         {
             "id": "_-7amdcpjvg",
@@ -7,13 +7,6 @@
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/MUSIQUITO DEL TALON - HERMANOS VEGA-_-7amdcpjvg.mp4",
             "size": 5.315587,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/MUSIQUITO DEL TALON - HERMANOS VEGA-_-7amdcpjvg.mp4?raw=true"
-        },
-        {
-            "id": "wCA7Rq0EBU4",
-            "name": "Mac-DeMarco--Treat-Her-Better-wCA7Rq0EBU4.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Mac-DeMarco--Treat-Her-Better-wCA7Rq0EBU4.mp4",
-            "size": 9.295377,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Mac-DeMarco--Treat-Her-Better-wCA7Rq0EBU4.mp4?raw=true"
         },
         {
             "id": "TBe5-wHd4Dk",
@@ -28,20 +21,6 @@
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Massacre 68 -  Un dia en pekin-_u4_X-oms7Y.mp4",
             "size": 8.274773,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Massacre 68 -  Un dia en pekin-_u4_X-oms7Y.mp4?raw=true"
-        },
-        {
-            "id": "hunNKSHFoRQ",
-            "name": "Mano Negra - Viva Zapata-hunNKSHFoRQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Mano Negra - Viva Zapata-hunNKSHFoRQ.mp4",
-            "size": 4.0007399999999995,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Mano Negra - Viva Zapata-hunNKSHFoRQ.mp4?raw=true"
-        },
-        {
-            "id": "Bbmy1BKhDaw",
-            "name": "MaRCo ANtonio SoLiS    Resignacion-Bbmy1BKhDaw.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/MaRCo ANtonio SoLiS    Resignacion-Bbmy1BKhDaw.mp4",
-            "size": 4.002815,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/MaRCo ANtonio SoLiS    Resignacion-Bbmy1BKhDaw.mp4?raw=true"
         },
         {
             "id": "hunNKSHFoRQ",
@@ -149,13 +128,6 @@
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Les Vitrines-v7gjGCD5DQY.mp4?raw=true"
         },
         {
-            "id": "1T7D0TGwPBs",
-            "name": "Manu Chao - Mi Vida-1T7D0TGwPBs.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Manu Chao - Mi Vida-1T7D0TGwPBs.mp4",
-            "size": 6.3186,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Manu Chao - Mi Vida-1T7D0TGwPBs.mp4?raw=true"
-        },
-        {
             "id": "G_1OpgLEyxk",
             "name": "Marco Antonio Solis RAZON DE SOBRA-G_1OpgLEyxk.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Marco Antonio Solis RAZON DE SOBRA-G_1OpgLEyxk.mp4",
@@ -175,6 +147,13 @@
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Moonspell - ...Of Dream and Drama-mLtdL9AKP0A.mp4",
             "size": 7.116886,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Moonspell - ...Of Dream and Drama-mLtdL9AKP0A.mp4?raw=true"
+        },
+        {
+            "id": "z3YMxM1_S48",
+            "name": "Moby - Natural Blues [z3YMxM1_S48].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Moby - Natural Blues [z3YMxM1_S48].mp4",
+            "size": 9.07523,
+            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Moby - Natural Blues [z3YMxM1_S48].mp4?raw=true"
         },
         {
             "id": "ZivK8PmxPWQ",
@@ -217,13 +196,6 @@
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Matt Maltese - As The World Caves In (Sub. Español)-XfzwFx3DMPk.mp4",
             "size": 7.3071779999999995,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Matt Maltese - As The World Caves In (Sub. Español)-XfzwFx3DMPk.mp4?raw=true"
-        },
-        {
-            "id": "9343NVGJD2w",
-            "name": "Manu Chao - Mama Cuchara-9343NVGJD2w.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Manu Chao - Mama Cuchara-9343NVGJD2w.mp4",
-            "size": 3.440104,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Manu Chao - Mama Cuchara-9343NVGJD2w.mp4?raw=true"
         },
         {
             "id": "v5h-CVKzi28",
@@ -331,20 +303,6 @@
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/If Dreams Come True-cBmvd0ypzkI.mp4?raw=true"
         },
         {
-            "id": "ZivK8PmxPWQ",
-            "name": "Manu Chao - Me llaman calle-ZivK8PmxPWQ.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Manu Chao - Me llaman calle-ZivK8PmxPWQ.mp4",
-            "size": 15.720903,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Manu Chao - Me llaman calle-ZivK8PmxPWQ.mp4?raw=true"
-        },
-        {
-            "id": "d9wHomPzXQ0",
-            "name": "Manu Chao - Por El Suelo (Live)-d9wHomPzXQ0.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Manu Chao - Por El Suelo (Live)-d9wHomPzXQ0.mp4",
-            "size": 8.968846,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Manu Chao - Por El Suelo (Live)-d9wHomPzXQ0.mp4?raw=true"
-        },
-        {
             "id": "-y28FKqHJ5I",
             "name": "Mijares Bonita--y28FKqHJ5I.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Mijares Bonita--y28FKqHJ5I.mp4",
@@ -352,25 +310,11 @@
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Mijares Bonita--y28FKqHJ5I.mp4?raw=true"
         },
         {
-            "id": "3P4LjoQ9D8k",
-            "name": "GUSTAVO,EL BONDADOSO,,TE ASEPTO COMO ERES,,MARTHA MILAGROS GARIBAY GARIBAY LAS ZARQUILLAS MICHOACAN-3P4LjoQ9D8k.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/GUSTAVO,EL BONDADOSO,,TE ASEPTO COMO ERES,,MARTHA MILAGROS GARIBAY GARIBAY LAS ZARQUILLAS MICHOACAN-3P4LjoQ9D8k.mp4",
-            "size": 7.367731999999999,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/GUSTAVO,EL BONDADOSO,,TE ASEPTO COMO ERES,,MARTHA MILAGROS GARIBAY GARIBAY LAS ZARQUILLAS MICHOACAN-3P4LjoQ9D8k.mp4?raw=true"
-        },
-        {
             "id": "8Oo_Lz0fZTc",
             "name": "Black Roses-8Oo_Lz0fZTc.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Black Roses-8Oo_Lz0fZTc.mp4",
             "size": 3.285234,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Black Roses-8Oo_Lz0fZTc.mp4?raw=true"
-        },
-        {
-            "id": "h4UzKRgKGJU",
-            "name": "Manu Chao - La Valse à Sale Temps-h4UzKRgKGJU.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Manu Chao - La Valse à Sale Temps-h4UzKRgKGJU.mp4",
-            "size": 7.057194,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Manu Chao - La Valse à Sale Temps-h4UzKRgKGJU.mp4?raw=true"
         },
         {
             "id": "_1yfwga4hnw",
@@ -443,13 +387,6 @@
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/MASSACRE 68 - EJERCITO NACIONAL-_5bnRaiYgp8.mp4?raw=true"
         },
         {
-            "id": "z3YMxM1_S48",
-            "name": "Moby - Natural Blues-z3YMxM1_S48.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Moby - Natural Blues-z3YMxM1_S48.mp4",
-            "size": 13.979154999999999,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Moby - Natural Blues-z3YMxM1_S48.mp4?raw=true"
-        },
-        {
             "id": "gbg27oT8Z9M",
             "name": "Mac DeMarco _ Another One (Official Video)-gbg27oT8Z9M.mp4",
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Mac DeMarco _ Another One (Official Video)-gbg27oT8Z9M.mp4",
@@ -462,13 +399,6 @@
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/Moonspell- Love crimes subtitulos en español-spt_fIYi85c.mp4",
             "size": 12.093663999999999,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Moonspell- Love crimes subtitulos en español-spt_fIYi85c.mp4?raw=true"
-        },
-        {
-            "id": "G_1OpgLEyxk",
-            "name": "Marco Antonio Solis - RAZON DE SOBRA-G_1OpgLEyxk.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Marco Antonio Solis - RAZON DE SOBRA-G_1OpgLEyxk.mp4",
-            "size": 4.09758,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Marco Antonio Solis - RAZON DE SOBRA-G_1OpgLEyxk.mp4?raw=true"
         },
         {
             "id": "cfLIlP-GAmg",
@@ -532,13 +462,6 @@
             "path": "/home/alanmatzumiya/Videos/container/m1/videos/MASACRE 68 Sistema Podrido - El Imperial-T32oSbKgvck.mp4",
             "size": 31.485228,
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/MASACRE 68 Sistema Podrido - El Imperial-T32oSbKgvck.mp4?raw=true"
-        },
-        {
-            "id": "v7gjGCD5DQY",
-            "name": "Kid Francescoli - Les Vitrines「Sub. Español (Lyrics)」-v7gjGCD5DQY.mp4",
-            "path": "/home/alanmatzumiya/Videos/container/m1/videos/Kid Francescoli - Les Vitrines「Sub. Español (Lyrics)」-v7gjGCD5DQY.mp4",
-            "size": 7.948975,
-            "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Kid Francescoli - Les Vitrines「Sub. Español (Lyrics)」-v7gjGCD5DQY.mp4?raw=true"
         },
         {
             "id": "7f6wVBC8xdA",
@@ -646,5 +569,5 @@
             "url": "https://github.com/circuitalmynds/music_m1/blob/main/videos/Mierda De Ciudad-3DbfMIZHVzo.mp4?raw=true"
         }
     ],
-    "total_size": 972.2043399999999
+    "total_size": 889.0815489999999
 }
